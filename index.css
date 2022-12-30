@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-size: cover;
+    height: 100vh;
+    background-image: url("https://t4.ftcdn.net/jpg/01/83/94/33/360_F_183943349_jJ7qEE5CrxDSCPfHzV73KVxlY0BzVMg4.jpg");
+}
+
+h3 {
+  font-family: 'Verdana';
+  font-style: bold;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 36px;
+  text-align: center;
+  color: #EEEEEE;
+}
+
+.score {
+    border: 2px solid black;
+    border-radius: 5px;
+    background: #0a0001;
+    font-size: 90px;
+    font-family: "monaco", "Courier New", monospace;
+    font-style: bold;
+    font-weight: 400;
+    text-align: center;
+    color: #F94F6D;
+    width: 155px;
+    margin: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    background: #1B244A;
+    color: #9AABD8;
+    border-color: #9AABD8;
+    width: 45px;
+    height: 45px;
+    font-style: oblique;
+    font-weight: : bold;
+}
+
+button-2 {
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    background: #1B244A;
+    color: #9AABD8;
+    border-color: #9AABD8;
+    width: 160px;
+    height: 45px;
+    font-style: oblique;
+    font-size: 40;
+    font-weight: : bold;
+    align-self: flex-end;
+
+}
